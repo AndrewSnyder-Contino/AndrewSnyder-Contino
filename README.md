@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewSnyder-Contino
-- 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Julia, RustC, nim, OCaml
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in SRE and DevSecOps
+- 🌱 I’m currently learning OpenSLO, Go, RustC, nim, OCaml
+- 💞️ I’m looking to collaborate on SLO/SLI Definition Front-End
 - 📫 Reach out to me at: andrew.snyder@contino.io
 
 <!---
